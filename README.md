@@ -11,4 +11,4 @@ Rename `eslintrc.json` to `.eslintrc.json` and move to your home folder `~`.
 
 `$ cp ./eslintrc.json ~/.eslintrc.json`
 
-Created by [LacyMorrow](https://github.com/lacymorrow).
+Created by [Lacy Morrow](https://github.com/lacymorrow).
