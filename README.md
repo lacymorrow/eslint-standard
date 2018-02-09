@@ -15,6 +15,9 @@ $ npm install -g eslint-standard
 Installs the configuration to the user's home directory `~/.eslintrc.json`
 
 
+# [View the Rulebook](standard.md)
+
+
 ##### Manual Installation
 
 Rename `eslintrc.json` to `.eslintrc.json` and move to your home folder `~`:
