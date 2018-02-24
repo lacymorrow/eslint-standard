@@ -9,7 +9,7 @@ This is a complete eslintrc file to enforce coding styles across projects and te
 ### Install
 
 ```bash
-$ npm install -g eslint-standard
+$ npm install eslint-standard
 ```
 
 # [View the Rulebook](standard.md)
