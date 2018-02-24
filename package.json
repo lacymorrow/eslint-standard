@@ -4,7 +4,7 @@
   "description": "Stylish JavaScript.",
   "main": "index.js",
   "scripts": {
-    "postinstall": "if [ -n \"$1\" ]; then cp eslintrc.json ~/.eslintrc.json;",
+    "postinstall": "if [ -n \"$1\" ]; then cp eslintrc.json ~/.eslintrc.json;fi",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
