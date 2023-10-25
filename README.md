@@ -1,3 +1,6 @@
+> [!WARNING]
+> This project is unmaintained.
+
 # ESLint Standard
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com) [![license:mit](https://img.shields.io/badge/license-mit-blue.svg)](https://opensource.org/licenses/MIT)
 
